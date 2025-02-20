@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Rafael\Documents\Visual Studio 2022\Pong_Game_Raylib\Pong_Game_Raylib\main.cpp(48,18): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Rafael\Documents\Visual Studio 2022\Pong_Game_Raylib\Pong_Game_Raylib\main.cpp(51,61): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Rafael\Documents\Visual Studio 2022\Pong_Game_Raylib\Pong_Game_Raylib\main.cpp(54,62): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Pong_Game_Raylib.vcxproj -> C:\Users\Rafael\Documents\Visual Studio 2022\Pong_Game_Raylib\x64\Debug\Pong_Game_Raylib.exe
